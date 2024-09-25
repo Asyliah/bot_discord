@@ -1,6 +1,6 @@
 const axios = require('axios');
 const { EmbedBuilder } = require('discord.js');
-
+// TTESTEST
 // URL de base de l'API CheapShark
 const API_URL = 'https://www.cheapshark.com/api/1.0/deals';
 
